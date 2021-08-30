@@ -25,7 +25,9 @@ Then, you will have to create and complete a config.def file in the main directo
 
 * username
 * password
+
 *Take care to keep your file in a secured place so nobody can access your username and password*
+
 * output : directory where you will save your output
 * links : file with the links
 
