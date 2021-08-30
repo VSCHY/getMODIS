@@ -1,0 +1,9 @@
+[OverAll]
+#
+#
+username = my_user
+password = my_password
+
+output = /dir/to/output/
+links = /home/anthony/Documents/Doctorat/PROD/download_SatPP/IMERG_LR/temp
+
