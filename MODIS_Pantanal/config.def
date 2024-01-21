@@ -1,0 +1,10 @@
+[OverAll]
+#
+#
+username = aschrap_23
+password = ModisHello8
+
+output = /home/anthony/Documents/Doctorat/PROD/download_SatPP/IMERG_LR/
+temp_dir = /home/anthony/Documents/Doctorat/PROD/download_SatPP/IMERG_LR/temp
+
+
